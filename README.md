@@ -16,6 +16,7 @@ Experimenting and building embedded systems capable of interacting with the outs
 - [Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded) - A curated list of awesome embedded programming.
 - [Awesome Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi) - A curated list of awesome Raspberry Pi tools, projects, images and resources.
 - [awesome-embedded](https://github.com/embedded-boston/awesome-embedded-systems) - A curated list of delightful Embedded Systems libraries, RTOSes, modules, references and more!
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [Embedded Rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language.
 - [Awesome ESP](https://github.com/agucova/awesome-esp) - A curated list of awesome ESP8266/32 projects and code.
 - [Awesome Robot Operating System 2 (ROS 2)](https://github.com/fkromer/awesome-ros2) - The Robot Operating System Version 2.0 is awesome!
