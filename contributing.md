@@ -27,6 +27,7 @@ This list focuses **exclusively** on project tutorials for embedding system proj
     - Youtube (or related) video.
     - A github-like repository, as long as it follows the mandatory topics.
     - An online course, as long as it is free (in the free-beer sense, but preferably also in the free-of-speech sense).
+    - An article related, even though it is less desired. Consider making a repository in a tutorial format.
 
 # Rules for making a PR
 - Item fits in one of the categories, or you can start a new category.
