@@ -1,4 +1,4 @@
-## Rules adding an item list to the Awesome Embedded Systems for DSP and AI:
+## Rules adding a list item to the Awesome Embedded Systems for DSP and AI:
 
 This list focuses **exclusively** on project tutorials for embedding system projects that use knowledge of DSP and AI to solve problems.
 
