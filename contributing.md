@@ -34,4 +34,5 @@ This list focuses **exclusively** on project tutorials for embedding system proj
 - Item fits in one of the categories, or you can start a new category.
 - It is in line with the [awesome list guidelines](https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md).
 - Add new items at the bottom of the category (and ended with a period).
+
 PS: For any other PR, fell free to make as you prefer
