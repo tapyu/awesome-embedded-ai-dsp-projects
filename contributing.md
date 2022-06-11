@@ -29,7 +29,8 @@ This list focuses **exclusively** on project tutorials for embedding system proj
     - An online course, as long as it is free (in the free-beer sense, but preferably also in the free-of-speech sense).
     - If your project came from an article or similar, consider making a repository in a tutorial format.
 
-# Rules for making a PR
+# Rules for making a PR of a list item
 - Item fits in one of the categories, or you can start a new category.
 - It is in line with the [awesome list guidelines](https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md).
 - Add new items at the bottom of the category (and ended with a period).
+PS: For any other PR, fell free to make as you prefer
