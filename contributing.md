@@ -15,7 +15,7 @@ This list focuses **exclusively** on project tutorials for embedding system proj
     - Computer Vision.
     - Sesoring and Monitoring.
     - Pattern Recognition.
-    - Adpitive filters.
+    - Adaptive filters.
   - A consistent tutorial with clear step-by-step and source code.
   - A well-defined microtroller system used on the project.
   - Pictures, graphics, or a video with the project result.
