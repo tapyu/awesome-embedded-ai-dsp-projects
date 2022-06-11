@@ -9,7 +9,7 @@ Experimenting and building embedded systems capable of interacting with the outs
 ## Related awesome
 
 - [Awesome Open Electronics](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
-- - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [Awesome Open Hardware](https://github.com/delftopenhardware/awesome-open-hardware) - Helpful items for making open source hardware projects.
 - [Awesome MicroPython](https://github.com/mcauser/awesome-micropython) - A curated list of awesome MicroPython libraries, frameworks, software and resources.
 - [Awesome Python for Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio) - Curated list of python software and packages related to scientific research in audio.
