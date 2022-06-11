@@ -1,6 +1,6 @@
 # Rules adding an item to the Awesome Embedded Systems for DSP and AI list:
 
-This list focuses **exclusively** on project tutorials for embedding system projects that use knowledge of DSP and AI to solve some problems.
+This list focuses **exclusively** on project tutorials for embedding system projects that use knowledge of DSP and AI to solve problems.
 
 - The following characteristics are mandatory to have:
   - A project tutorial which embraces one (or more) of the following topics (or at least, something related to):
