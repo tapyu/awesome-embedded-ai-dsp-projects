@@ -15,7 +15,7 @@ This list focuses **exclusively** on project tutorials for embedding system proj
     - Sesoring and Monitoring.
     - Pattern Recognition.
     - Adpitive filters.
-  - A consistent tutorial with clear step-to-step and source code.
+  - A consistent tutorial with clear step-by-step and source code.
   - A well-defined microtroller system used on the project.
   - Pictures, graphics, or a video with the project result.
 - The following characteristics are optional, and depending on the project tutorial, may or may not have:
