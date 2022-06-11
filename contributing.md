@@ -25,6 +25,6 @@ This list focuses **exclusively** on tutorials for embedding system projects tha
   - The format of the tutorial, which can be in any format, such as (but not limited to):
     - Project from sites.
     - Youtube (or related) video.
-    - A github-like repository (as long as it follows the mandatory topics).
-    - A course format.
+    - A github-like repository, as long as it follows the mandatory topics.
+    - An online course, as long as it is free (in the free beer sense, but preferably also in the free-of-speech sense).
     - Etc...
