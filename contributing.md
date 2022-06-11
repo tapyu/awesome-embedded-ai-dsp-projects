@@ -10,6 +10,7 @@ This list focuses **exclusively** on project tutorials for embedding system proj
     - System Identification.
     - Internet of Things.
     - Machine Learning and Neural Networks.
+    - Numerical optimization.
     - Data science.
     - Computer Vision.
     - Sesoring and Monitoring.
