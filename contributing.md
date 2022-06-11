@@ -1,6 +1,6 @@
-# Adding an item to the Awesome Embedded Systems for DSP and AI list:
+# Rules adding an item to the Awesome Embedded Systems for DSP and AI list:
 
-This list focuses **exclusively** on tutorials for embedding system projects that use knowledge of DSP and AI to solve some problems.
+This list focuses **exclusively** on project tutorials for embedding system projects that use knowledge of DSP and AI to solve some problems.
 
 - The following characteristics are mandatory to have:
   - A project tutorial which embraces one (or more) of the following topics (or at least, something related to):
@@ -27,4 +27,8 @@ This list focuses **exclusively** on tutorials for embedding system projects tha
     - Youtube (or related) video.
     - A github-like repository, as long as it follows the mandatory topics.
     - An online course, as long as it is free (in the free beer sense, but preferably also in the free-of-speech sense).
-    - Etc...
+
+# Rules for making a PR
+- Item fits in one of the categories, or you can start a new category.
+- It is in line with the [awesome list guidelines](https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md).
+- Add new items at the bottom of the category (and ended with a period).
