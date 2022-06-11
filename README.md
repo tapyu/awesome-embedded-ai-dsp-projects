@@ -1,4 +1,4 @@
-# Awesome Embedded Systems for DSP and AI
+# Awesome Embedded Systems Projects for DSP and AI
 
 > A curated list of embedded system projects for digital signal processing (DSP) and artificial intelligence (AI) for avid practitioners.
 
