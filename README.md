@@ -4,4 +4,9 @@
 
 Digital Signal Processing and Artificial Intelligence are usual fields of knowledge for scientists and engineers. Nevertheless, it is customary the craving of trying to put their codes into the real world.
 
-Experimenting and building embedded systems capable of interacting with the world outside is the way to go, and this list of project tutorials is your remedy :sunglasses:. See [`contributing.md`](https://github.com/tapyu/awesome-embedded-ai-dsp-projects/blob/main/contributing.md) for more details.
+Experimenting and building embedded systems capable of interacting with the world outside is the way to go, and this list of project tutorials is your remedy :sunglasses:.
+
+
+## Contributing
+
+Additional suggestions are welcomed! Check out [`contributing.md`](https://github.com/tapyu/awesome-embedded-ai-dsp-projects/blob/main/contributing.md) for guidelines.
