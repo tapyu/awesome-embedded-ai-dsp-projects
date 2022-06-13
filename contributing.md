@@ -7,6 +7,7 @@ This list focuses **exclusively** on project tutorials for embedding system proj
     - Digital Signal processing.
     - Digital Image processing.
     - Estimation and Detection.
+    - Digital communications.
     - System Identification.
     - Internet of Things.
     - Machine Learning and Neural Networks.
