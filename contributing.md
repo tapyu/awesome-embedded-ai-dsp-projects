@@ -1,9 +1,9 @@
 ## Rules adding a list item to the Awesome Embedded Systems for DSP and AI:
 
-This list focuses **exclusively** on project tutorials for embedding system projects that use knowledge of DSP and AI to solve problems.
+This list focuses **exclusively** on project tutorials for embedding system projects that use knowledge of DSP and AI to solve problems. This project tutorial list is **theory-based**, which means that the main compromise is to directly bound the theoretical knowledge to a project. Therefore, the list should be divided by theoretical field and not by application.
 
 - The following characteristics are mandatory to have:
-  - A project tutorial which embraces one (or more) of the following topics (or at least, something related to):
+  - A project tutorial which embraces one (or more) of the following field of knowledge (or at least, something related to):
     - Digital Signal processing.
     - Digital Image processing.
     - Estimation and Detection.
