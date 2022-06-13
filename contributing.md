@@ -13,6 +13,7 @@ This list focuses **exclusively** on project tutorials for embedding system proj
     - Data science.
     - Pattern Recognition.
     - Adaptive filters.
+  - The project should embrace an interesting technique and **cannot be merely a set of code which does trivial tasks** (this is an awesome list, not a junkyard). The triviality is assessed by the adm.
   - A consistent tutorial with clear step-by-step and source code.
   - A well-defined microtroller (or microprocessor) system used on the project.
   - Pictures, graphics, or a video with the project result.
