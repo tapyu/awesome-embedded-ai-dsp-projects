@@ -23,6 +23,11 @@ Experimenting and building embedded systems capable of interacting with the outs
 - [Awesome Home Assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [Awesome IoT](https://github.com/HQarroum/awesome-iot) - A curated list of awesome Internet of Things projects and resources.
 
+## Futher Reading
+
+- [HardwareX Journal](https://www.journals.elsevier.com/hardwarex) - An open access scientific hardware journal.
+- [SoftwareX Journal](https://www.sciencedirect.com/journal/softwarex) - An open access scientific software journal.
+- [The Journal of Open Hardware](https://openhardware.metajnl.com/) - (JOH) is a peer reviewed open access publication for open hardware research and development.
 
 ## Contributing
 
